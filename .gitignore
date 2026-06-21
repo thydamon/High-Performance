@@ -1,0 +1,37 @@
+# Ignore compiled executables
+*.exe
+*.out
+*.app
+
+# Ignore object files and static/dynamic libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Ignore build directories
+build/
+build-*/
+cmake-build-*/
+out/
+Debug/
+Release/
+x64/
+x86/
+
+# Ignore IDE files
+.vs/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.code-workspace
+
+# Ignore other generated files
+*.pdb
+*.ilk
+*.exp
+*.manifest
