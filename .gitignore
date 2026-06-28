@@ -25,6 +25,7 @@ x86/
 # Ignore IDE files
 .vs/
 .vscode/
+.claude/
 *.sln
 *.vcxproj
 *.vcxproj.user
