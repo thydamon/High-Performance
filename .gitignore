@@ -36,3 +36,6 @@ x86/
 *.ilk
 *.exp
 *.manifest
+
+# Ignore node cache
+node_cache/
